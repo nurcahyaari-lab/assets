@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#24252B"/>
+  <g fill="#565A6B" transform="translate(256,256) scale(0.95) translate(-312.5,-166)">
+    <!-- chimney -->
+    <rect x="146" y="136" width="22" height="50"/>
+    <rect x="139" y="126" width="36" height="11"/>
+    <!-- house -->
+    <polygon points="90,236 230,96 370,236 334,236 230,132 126,236"/>
+    <!-- neighbour 1 -->
+    <polygon points="299.5,151.5 330,121 445,236 409,236 330,157 317.5,169.5"/>
+    <!-- neighbour 2 -->
+    <polygon points="402,179 440,141 535,236 499,236 440,177 420,197"/>
+  </g>
+</svg>
